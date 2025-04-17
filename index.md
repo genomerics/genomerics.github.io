@@ -5,8 +5,9 @@
 layout: home
 ---
 
-#
+<!--
 # Who we are
+-->
 
 Genomerics provides data science, bioinformatics and software services, with a focus on small and medium enterprises in the biotech space. Based in the innovation hub of Cambridge UK, we've worked with clients in Cambridge and London and remotely with clients in the EU and the US.
 
